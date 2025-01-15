@@ -95,7 +95,7 @@ input {
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 .loader {
-  font-size: 700px;
+  font-size: 400px;
   margin: auto;
   display: inline-block;
   animation: spin 2s ease infinite;
